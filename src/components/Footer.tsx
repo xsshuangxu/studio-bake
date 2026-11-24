@@ -22,8 +22,7 @@ export function Footer() {
           </p>
           <p>{site.contact.email}</p>
           <p className="mt-3 text-xs opacity-60">
-            Placeholder brand — rename in{" "}
-            <code className="rounded bg-black/5 px-1">src/content/site.ts</code>
+            两人手工 · Greater Boston · Pickup first
           </p>
         </div>
       </div>

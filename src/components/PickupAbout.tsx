@@ -19,11 +19,11 @@ export function PickupAbout() {
               <span className="font-zh">固定时间，当面取走</span>
             </h2>
             <p className="mt-4 max-w-lg text-[var(--cocoa-soft)]">
-              Scheduled pickup at a fixed weekday window — edit details in{" "}
-              <code className="rounded bg-black/5 px-1.5 py-0.5 text-sm">
-                src/content/site.ts
-              </code>
-              .
+              <span className="font-zh">每周固定时段预约自取，取货前请先完成付款确认。</span>
+              <span className="mt-1 block">
+                Scheduled Saturday window — pay first to confirm your pickup
+                spot.
+              </span>
             </p>
           </div>
 
